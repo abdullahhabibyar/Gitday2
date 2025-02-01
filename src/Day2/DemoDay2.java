@@ -28,4 +28,6 @@ public class DemoDay2 {
 		System.out.println(a-b);
 		
 	}
+	
+	// we foolowed the instraction 
 }
